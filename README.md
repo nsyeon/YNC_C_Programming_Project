@@ -1,6 +1,6 @@
 # YNC_C_Programming_Project
 
-영남이공대학교 2학년 1학기 C프로그래밍 기말 프로젝트인, **콘솔창 미나 게임** 입니다.
+영남이공대학교 2학년 1학기 C프로그래밍 기말 프로젝트인, **콘솔창 미니 게임** 입니다.
 
 ## 개발 환경
 - Developer Tool : Visual Studio
